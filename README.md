@@ -72,3 +72,9 @@ Currently, Human Detection has been completed. To run and train the model in you
 		- y_val.npy
 
 5.	Finally run the training_human_detection.py file to train a model. Th output will be Human_detection.keras 
+
+#### Result
+
+
+![VTRC Phase](https://github.com/abiral001/motioncapture_posenet/blob/master/resources/human_detection_results.png)
+
