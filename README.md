@@ -1,16 +1,16 @@
 # Motion Capture using Posenet
 
 The Project is divided into two phases:
-	- Video to Rig Conversion Phase (VTRC)
+- Video to Rig Conversion Phase (VTRC)
 	
-	- Rig to 3D Model Conversion Phase (RT3MC)
+- Rig to 3D Model Conversion Phase (RT3MC)
 
 Additionally, VTRC Phase is divided into three phases:
-	- Human Detection 
+- Human Detection 
 	
-	- Boundary and Heat Map Creation
+- Boundary and Heat Map Creation
 	
-	- 2D Pose Estimation
+- 2D Pose Estimation
 
 ## VTRC Phase
 
