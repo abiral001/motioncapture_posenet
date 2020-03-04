@@ -27,22 +27,22 @@ Currently, Human Detection has been completed. To run and train the model in you
 1.	Download the Coco Dataset from [COCO Datasest](http://cocodataset.org/#download).
 2.	Keep the following root directory:
 		
-	|
-	|_ dataset
-	|	|
-	|	|_ annotation2017
-	|	|
-	|	|_ train2017
-	|	|
-	|	|_ val2017
-	|	|
-	|	|_ test2017
-	|
-	|_ dp_json_csv.py
-	|
-	|_ dp_human_detection.py
-	|
-	|_ training_human_detection.py
+		|
+		|_ dataset
+		|	|
+		|	|_ annotation2017
+		|	|
+		|	|_ train2017
+		|	|
+		|	|_ val2017
+		|	|
+		|	|_ test2017
+		|
+		|_ dp_json_csv.py
+		|
+		|_ dp_human_detection.py
+		|
+		|_ training_human_detection.py
 
 
 3.	Run the dp_json_csv.py file directly or copy the contents to a Jupyter notebook to run gradually. This will create six files:
