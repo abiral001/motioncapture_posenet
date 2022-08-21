@@ -7,4 +7,7 @@ This project heavily takes inspiration from the project to implement the Motion 
 
 The project was presented in SET Conference held in Kathmandu, Nepal on December 4, 2021.
 
-It is currently under press.
+It is published in SET Conference Journal which can be found at: https://set.acem.edu.np//acem/uploads/userfiles/files/SET2021/SET%202021%20Final.pdf
+
+Reference: 
+Pokharel, Abiral, Eelisha Pathak, Gaurav Regmi, Nidwija Bhatta, Prof. Dr. Subarna Shakya. “Motion Capture using POSENET”. Science, Engineering and Technology (SET) Conference ISSN 2795-1944. Page 21-27. December 2021, Kathmandu, Nepal. 
